@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67f6bd2f40f0dca02e1dc733"
+  },
+  "name": "Admin User",
+  "username": "admin",
+  "email": "admin@attendease.com",
+  "password": "$2b$10$JKkpj/XQVOMCOgc4cOXZP.SZK5ufEA0dwlHa59BhgVoST/9EtXXje",
+  "role": "admin",
+  "profileImage": "",
+  "createdAt": {
+    "$date": "2025-04-09T18:32:15.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f6bd2f40f0dca02e1dc734"
+  },
+  "name": "Demo Lecturer",
+  "username": "lecturer",
+  "email": "lecturer@dorsu.edu",
+  "password": "$2b$10$lxLQ4uKPGzutY1rtfuofHe2Gsv0I9SMyN/YOL4HfMN6pxmujyKMhO",
+  "role": "lecturer",
+  "profileImage": "",
+  "createdAt": {
+    "$date": "2025-04-09T18:32:15.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f6bd2f40f0dca02e1dc735"
+  },
+  "name": "Alex Johnson",
+  "username": "student",
+  "email": "student@dorsu.edu",
+  "password": "$2b$10$T8lYUaJrUu3iz4ePjTtlp.3VjDJ4dweGQryFDAiSYE5q0Mof9pM6e",
+  "studentId": "S10045",
+  "program": "Computer Science",
+  "semester": "3rd Semester",
+  "role": "student",
+  "profileImage": "",
+  "createdAt": {
+    "$date": "2025-04-09T18:32:15.903Z"
+  },
+  "__v": 0
+}]
